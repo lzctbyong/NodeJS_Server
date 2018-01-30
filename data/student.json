@@ -1,0 +1,28 @@
+{
+	"classinfo": {
+		"num": 12,
+		"room": 106,
+		"teacher": "iwen"
+	},
+	"students": [{
+		"name": "吴双",
+		"sex": "女",
+		"age": 18
+	}, {
+		"name": "宋宁宁",
+		"sex": "女",
+		"age": 20
+	}, {
+		"name": "黄开林",
+		"sex": "男",
+		"age": 22
+	}, {
+		"name": "刘帅",
+		"sex": "女",
+		"age": 25
+	}, {
+		"name": "郑天昊",
+		"sex": "男",
+		"age": 23
+	}]
+}
